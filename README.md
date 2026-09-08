@@ -1,2 +1,2 @@
 # OnlineFoodDelivery
-Research Paper on online food delivery.
+Data analytics project on online food delivery.
